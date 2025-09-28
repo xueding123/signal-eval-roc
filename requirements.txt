@@ -1,0 +1,7 @@
+﻿# Minimal runtime deps for notebooks
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy

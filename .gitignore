@@ -1,0 +1,35 @@
+﻿# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+ENV/
+
+# Data / artifacts
+/data/
+/figures/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.feather
+*.parquet
+*.h5
+*.npz
+*.npy
+*.pt
+*.pth
+*.model
+*.sav
+*.joblib
+
+# OS
+.DS_Store
+Thumbs.db
